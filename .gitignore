@@ -5,4 +5,7 @@ valgrind*
 .cache
 bin
 build
+.clangd
+compile_commands.json
+dump.lsif
 cmake-build-debug
